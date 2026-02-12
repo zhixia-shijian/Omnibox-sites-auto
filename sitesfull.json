@@ -279,6 +279,266 @@
         "searchLimit": 20,
         "jiexiUrl": ""
       }
+    },
+    {
+      "id": "dyttzy",
+      "name": "电影天堂资源",
+      "type": "maccms",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "ruyi",
+      "name": "如意资源",
+      "type": "maccms",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "tyyszy",
+      "name": "天涯资源",
+      "type": "maccms",
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "xiaomaomi",
+      "name": "小猫咪资源",
+      "type": "maccms",
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "heimuer",
+      "name": "黑木耳",
+      "type": "maccms",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "zy360",
+      "name": "360资源",
+      "type": "maccms",
+      "api": "https://360zy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "iqiyi",
+      "name": "iqiyi资源",
+      "type": "maccms",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "wolong",
+      "name": "卧龙资源",
+      "type": "maccms",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "hwba",
+      "name": "华为吧资源",
+      "type": "maccms",
+      "api": "https://cjhwba.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "jisu",
+      "name": "极速资源",
+      "type": "maccms",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "dbzy",
+      "name": "豆瓣资源",
+      "type": "maccms",
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "mozhua",
+      "name": "魔爪资源",
+      "type": "maccms",
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "mdzy",
+      "name": "魔都资源",
+      "type": "maccms",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "zuid",
+      "name": "最大资源",
+      "type": "maccms",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "yinghua",
+      "name": "樱花资源",
+      "type": "maccms",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "baidu",
+      "name": "百度云资源",
+      "type": "maccms",
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "wujin",
+      "name": "无尽资源",
+      "type": "maccms",
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "wwzy",
+      "name": "旺旺短剧",
+      "type": "maccms",
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "ikun",
+      "name": "iKun资源",
+      "type": "maccms",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "lzi",
+      "name": "量子资源站",
+      "type": "maccms",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
     }
   ]
 }
