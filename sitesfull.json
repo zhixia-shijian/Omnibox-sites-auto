@@ -1,13 +1,181 @@
 {
   "data": [
     {
-      "id": "yayazy",
-      "name": "呀呀资源",
-      "desc": "MacCMS 采集源",
-      "nsfw": false,
-      "status": true,
+      "id": "bfzy",
+      "name": "暴风采集站",
       "type": "maccms",
-      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "api": "https://publish.bfzy.tv/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "ffzy",
+      "name": "非凡采集站",
+      "type": "maccms",
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "kuaikanzy",
+      "name": "快看采集站",
+      "type": "maccms",
+      "api": "https://kuaikanzy.net/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "leshizy",
+      "name": "乐视采集站",
+      "type": "maccms",
+      "api": "https://www.leshizy1.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "lzizy",
+      "name": "量子采集站",
+      "type": "maccms",
+      "api": "http://lzizy.net/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "suonizy",
+      "name": "索尼采集站",
+      "type": "maccms",
+      "api": "https://suonizy.net/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "hongniuziyuan",
+      "name": "红牛资源",
+      "type": "maccms",
+      "api": "https://hongniuziyuan.net/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "1080zyk",
+      "name": "优质资源库",
+      "type": "maccms",
+      "api": "https://1080zyk6.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "yayazy",
+      "name": "鸭鸭资源库",
+      "type": "maccms",
+      "api": "https://yayazy.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "niuniuzy",
+      "name": "牛牛资源",
+      "type": "maccms",
+      "api": "https://niuniuzy.cc/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "okzyw",
+      "name": "OK 资源网",
+      "type": "maccms",
+      "api": "https://okzyw.vip/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "49zyw",
+      "name": "49 资源网",
+      "type": "maccms",
+      "api": "https://49zyw.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "360zy",
+      "name": "360 资源站",
+      "type": "maccms",
+      "api": "https://360zy5.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "qihuzy",
+      "name": "奇虎资源站",
+      "type": "maccms",
+      "api": "https://qihuzy4.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": false,
       "extra": {
         "gfw": false,
         "searchLimit": 20,
