@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "id": "ckzy",
+      "name": "CK资源",
+      "desc": "高危接口",
+      "type": "maccms",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "jkun",
+      "name": "jkun资源",
+      "desc": "高危接口",
+      "type": "maccms",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "r155",
+      "name": "155资源",
+      "desc": "高危接口",
+      "type": "maccms",
+      "api": "https://155api.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "lsb",
+      "name": "lsb资源",
+      "desc": "高危接口",
+      "type": "maccms",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "yutu",
+      "name": "玉兔资源",
+      "desc": "高危接口",
+      "type": "maccms",
+      "api": "https://yutuzy10.com/api.php/provide/vod/",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "leba",
+      "name": "乐播资源",
+      "type": "maccms",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "ck",
+      "name": "CK",
+      "type": "maccms",
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "hsck",
+      "name": "黄色仓库",
+      "type": "maccms",
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "msnii",
+      "name": "美少女资源站",
+      "type": "maccms",
+      "api": "https://www.msnii.com/api/json.php",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "xrbsp",
+      "name": "淫水机资源站",
+      "type": "maccms",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "gdlsp",
+      "name": "香奶儿资源站",
+      "type": "maccms",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "kxgav",
+      "name": "白嫖资源站",
+      "type": "maccms",
+      "api": "https://www.kxgav.com/api/json.php",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "pgxdy",
+      "name": "黄AV资源站",
+      "type": "maccms",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "baiwan",
+      "name": "百万资源",
+      "type": "maccms",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "madou",
+      "name": "91麻豆",
+      "type": "maccms",
+      "api": "https://91md.me/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "aosika",
+      "name": "奥斯卡资源",
+      "type": "maccms",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "naixiang",
+      "name": "奶香香",
+      "type": "maccms",
+      "api": "https://Naixxzy.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "senlin",
+      "name": "森林资源",
+      "type": "maccms",
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "fanhao",
+      "name": "番号资源",
+      "type": "maccms",
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "jingpin",
+      "name": "精品资源",
+      "type": "maccms",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "shayu",
+      "name": "鲨鱼资源",
+      "type": "maccms",
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "xiaoji",
+      "name": "小鸡资源",
+      "type": "maccms",
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "xibao",
+      "name": "细胞采集",
+      "type": "maccms",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    },
+    {
+      "id": "柚子资源",
+      "name": "🍊柚子资源",
+      "type": 0,
+      "api": "https://api.yzzy-api.com/inc/api.php/provide/vod",
+      "status": true,
+      "nsfw": true,
+      "extra": {
+        "categories": [
+          "动作片",
+          "喜剧片",
+          "爱情片",
+          "科幻片",
+          "恐怖片",
+          "剧情片",
+          "战争片",
+          "国产剧",
+          "台湾剧",
+          "韩国剧",
+          "欧美剧",
+          "香港剧",
+          "泰国剧",
+          "日本剧",
+          "福利",
+          "记录片",
+          "动画片",
+          "海外剧",
+          "倫理片",
+          "大陆综艺",
+          "港台综艺",
+          "日韩综艺",
+          "欧美综艺",
+          "国产动漫",
+          "日韩动漫",
+          "欧美动漫",
+          "港台动漫",
+          "海外动漫",
+          "搞笑",
+          "音乐",
+          "影视",
+          "汽车",
+          "短剧大全",
+          "预告片",
+          "预告片",
+          "体育"
+        ]
+      }
+    }
+  ]
+}
