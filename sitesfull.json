@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "yayazy",
+      "name": "呀呀资源",
+      "desc": "MacCMS 采集源",
+      "nsfw": false,
+      "status": true,
+      "type": "maccms",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "extra": {
+        "gfw": false,
+        "searchLimit": 20,
+        "jiexiUrl": ""
+      }
+    }
+  ]
+}
